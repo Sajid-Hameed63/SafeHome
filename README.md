@@ -10,3 +10,4 @@ In Authentication module, user is authenticated from the database and logged in.
 user is already not logged in, it will be redirect to sign up. In Surveillance module,
 house will observed completely. In Security module, security of the home will be
 check and necessary steps will be taken according to the situations.
+This is a complete document for Safe Home including designs of of application.
