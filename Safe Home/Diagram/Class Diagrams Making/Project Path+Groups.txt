@@ -1,0 +1,28 @@
+Software Engineering Lab
+SafeHome
+
+********
+Groups 
+1-Sana & Haris
+--------@Sana you have to make class diagrams for Surveillance along with relationships among them (Provided on LMS text description)
+2-Wahab & Hamdan
+--------@Wahab you have to make class diagrams for Security along with relationships among them (Provided on LMS text description)
+
+********
+SafeHome
+Major components:
+1-Authentication
+--------Log In
+--------Sign Up
+--------Reset Password
+--------Forgot Password
+2-Surveillance
+--------Configuration of Surveillance
+--------CameraUI
+
+3-Security 
+--------Configuration of Security
+4-Profile(optional)
+--------AddPhoto
+--------RemovePhoto
+--------EditDetails
